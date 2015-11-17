@@ -2,10 +2,6 @@ body {
 	background-color: LightGray;
 	margin: 0;
 	padding: 0;
-	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
-	color: #838994;
-	letter-spacing: 0.03em;
 }
 
 div {
@@ -35,27 +31,10 @@ div {
 ul.links li {
 	display: inline-block;
 	margin-right: 14px;
-	cursor: pointer;
 }
 
 ul {
 	margin: 0;
 	padding: 0;
 }
-
-img.logo {
-	margin-left: 14px; 
-	height: 60px;
-	width: 26px;
-}
-
-html {
-	-webkit-font-smoothing: antialiased;
-}
-
-li.active {
-	color: #4C5058;
-	font-weight: 500;
-}
-
 
